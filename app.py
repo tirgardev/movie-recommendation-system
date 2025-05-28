@@ -58,3 +58,4 @@ if st.button("🔍 Show Recommendations"):
                 st.markdown(f"**🎭 Genre:** {rec['genre']}")
                 st.markdown(f"**🧾 Plot:** {rec['plot']}")
                 st.markdown("---")
+
