@@ -126,7 +126,6 @@ You can use a dataset like [TMDB 5000 Movie Dataset](https://www.kaggle.com/data
 ### ▶️ Watch the Video Demo
 
 [![Watch the demo](https://github.com/tirgardev/movie-recommendation-system/blob/main/Demo%20video.mp4)
-[![Watch the demo](https://1drv.ms/v/c/3ba4a42d4c8743e7/ES5lzCnsOHJOj-Ri_FFBECoBK8zRsk8yuBluiMn3EPN3dg)
 
 
 ### 🖼️ Screenshot
