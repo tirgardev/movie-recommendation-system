@@ -131,9 +131,10 @@ You can use a dataset like [TMDB 5000 Movie Dataset](https://www.kaggle.com/data
 
 ### 🖼️ Screenshot
 
-![Streamlit UI Preview](https://user-images.githubusercontent.com/your-screenshot-url)
+![Image](https://github.com/user-attachments/assets/52fb0afd-7c38-4835-ae10-b0c0c6d6ccc2)
 
-> 🔄 Replace the image link with your actual screenshot image URL.
+![Image](https://github.com/user-attachments/assets/f98b5b58-1d63-4b79-92a9-0ee8cfb93565)
+
 
 ---
 
