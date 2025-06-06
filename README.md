@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # 🎬 Movie Recommendation System 🎥
 
@@ -121,6 +123,21 @@ You can use a dataset like [TMDB 5000 Movie Dataset](https://www.kaggle.com/data
 
 ---
 
+## 📽️ Demo
+
+### ▶️ Watch the Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+### 🖼️ Screenshot
+
+![Streamlit UI Preview](https://user-images.githubusercontent.com/your-screenshot-url)
+
+> 🔄 Replace the image link with your actual screenshot image URL.
+
+---
+
 ## 🧑‍💻 Authors
 
 * 🔸 **Dev Tirgar** – [GitHub](https://github.com/tirgardev)
@@ -144,9 +161,7 @@ If you like this project:
 
 ---
 
-## 📷 Preview
-
-![Streamlit UI Preview](https://user-images.githubusercontent.com/your-screenshot-url)
+```
 
 ---
 
