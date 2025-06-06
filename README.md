@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🎬 Movie Recommendation System 🎥
 
