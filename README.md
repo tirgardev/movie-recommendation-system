@@ -158,6 +158,3 @@ If you like this project:
 * 🧑‍💼 Share your own improvements or fork
 
 ---
-
-```
-
