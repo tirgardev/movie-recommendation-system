@@ -1,5 +1,4 @@
 
-````markdown
 # 🎬 Movie Recommendation System 🎥
 
 This project is a **Content-Based Movie Recommendation System** built using **Python**, **Streamlit**, and **Machine Learning**. The system suggests movies based on a given movie title by computing the similarity score between movies using their content features.
